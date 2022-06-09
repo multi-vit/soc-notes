@@ -1,2 +1,3 @@
 # soc-notes
-Daily notes from our lectures at School of Code
+
+Daily notes from School of Code lectures, guest speakers and mindset sessions.
